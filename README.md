@@ -31,7 +31,7 @@ Aslında sadece Google'da "How to fix undefined is not a function" aratan ve bul
 
 Genelde karanlık bir odada 17 tane terminal sekmesi açıkken ekrana boş boş bakıyor olurum nhưng yinede şuradan ulaşabilirsiniz:
 
-- 💬 Discord: `@7x4d` (DM'ler açık, ama kodu bedavaya yazmamı isterseniz engellerim 🗿 tabikide şaka)
+- 💬 Discord: `@7x5g` (DM'ler açık, ama kodu bedavaya yazmamı isterseniz engellerim 🗿 tabikide şaka)
 
 <br>
 <p align="center"><i>"A system reboot fixes 90% of IT problems. The other 10% is DNS."</i></p>
